@@ -4,7 +4,7 @@ title: "Honor"
 permalink: /honor/
 author_profile: true
 redirect_from:
-  - /awards
+  - /honor
 ---
 
 * 2020 Young Elite Scientist Sponsorship Program of Henan Province （河南省青年人才托举工程）
